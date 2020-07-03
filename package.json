@@ -1,0 +1,82 @@
+{
+  "_from": "tle-modified",
+  "_id": "tle-modified@2.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-IMBzCE/G866yRst3Q9Cg20t8h1ErkYVDrFbln2zgEDdsZLvXaGveXmzYl2c0ijzYpplaqKUw+BUiMkt5GPt3Gw==",
+  "_location": "/tle-modified",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "tle-modified",
+    "name": "tle-modified",
+    "escapedName": "tle-modified",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/tle/-/tle-2.0.0.tgz",
+  "_shasum": "fbbb2c952dae533c313b828ed589c21bd65d7f6b",
+  "_spec": "tle",
+  "_where": "C:\\Users\\sadis\\OneDrive\\Bureau\\slr-nodejs",
+  "author": {
+    "name": "Jonas Hermsmeier",
+    "email": "jhermsmeier@gmail.com",
+    "url": "https://jhermsmeier.de"
+  },
+  "bugs": {
+    "url": "https://github.com/jhermsmeier/node-tle/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Jonas Hermsmeier",
+      "email": "jhermsmeier@gmail.com",
+      "url": "https://jhermsmeier.de"
+    },
+    {
+      "name": "Joey Mink",
+      "email": "jmink@exoanalytic.com",
+      "url": "http://joeymink.com"
+    },
+    {
+      "name": "Aymen Djeghmoum",
+      "email": "nacerdjeghmoum@gmail.com",
+      "url": "http://aymdj.me"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "Two-line element set (TLE) data format parser - Modified version",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "homepage": "https://github.com/Larko00/tle-modified",
+  "keywords": [
+    "tle",
+    "orbit",
+    "orbital",
+    "nasa",
+    "parser",
+    "format",
+    "sgp",
+    "sdp",
+    "norad",
+    "space"
+  ],
+  "license": "MIT",
+  "main": "lib/tle.js",
+  "name": "tle-modified",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Larko00/tle-modified.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "version": "2.0.0"
+}
